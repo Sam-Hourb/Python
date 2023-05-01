@@ -1,0 +1,7 @@
+To go to settings
+ctrl + ,
+
+To be able to execute a file in file's directory.
+ctrl + ,
+search for " executeinfiledir " 
+tick the checkbox for " when executing a file in the terminal, ... " 
